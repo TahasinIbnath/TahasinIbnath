@@ -28,14 +28,6 @@
 
 𝙇𝙚𝙩'𝙨 𝙗𝙪𝙞𝙡𝙙 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙬𝙤𝙧𝙩𝙝 𝙩𝙖𝙡𝙠𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩.
 
-
-# 🌐 Socials:
-<p align="center">
-  <a href="https://linkedin.com/in/tahasin-ibnath-08052b27b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tahasin_ibnath/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:tahasinibnath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 # 💻 Tech Stack:
 
 ## <p align="center">Languages</p>
@@ -109,12 +101,18 @@
   ☕ Current fuel: Coffee. Lots of it.
 </p>
 
-# ✍️ Personal Quote
+# 🌐 Find me here:
+<p align="center">
+  <a href="https://linkedin.com/in/tahasin-ibnath-08052b27b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tahasin_ibnath/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:tahasinibnath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-> ### *"They gave me a broken compass and pointed me toward chaos.I turned it into a constellation and named it after myself."* 🌌
+<p align="center">
+*"They gave me a broken compass and pointed me toward chaos.I turned it into a constellation and named it after myself."* 🌌- Tahasin Ibanth
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="10" />
+</p>
 </div>
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TahasinIbnath&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
