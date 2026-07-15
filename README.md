@@ -1,6 +1,7 @@
 <p align="center">
   <i>⚡ Code. Build. Freak. Fix. Repeat. ⚡</i>
-  
+
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh3cjRobzRmdG9hd21jaGlkZ3llY29tZzJ3c2NiNjFyeTYwM29nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding animation" />
 </p>
 
